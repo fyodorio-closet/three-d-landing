@@ -5,10 +5,18 @@ export const app = `
     <div class="positioning-container">
     <div class="bottom-padding-container">
         <div class="base">
-            <div class="front"></div>
-            <div class="left"></div>
-            <div class="right"></div>
-            <div class="back"></div>
+            <div class="front">
+                <div class="flip">TEST</div>
+            </div>
+            <div class="left">
+                <div class="flip">TEST</div>
+            </div>
+            <div class="right">
+                <div class="flip">TEST</div>
+            </div>
+            <div class="back">
+                <div class="flip">TEST</div>
+            </div>
         </div>
     </div>
     </div>
